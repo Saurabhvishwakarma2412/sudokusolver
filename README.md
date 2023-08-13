@@ -1,2 +1,2 @@
 # sudokusolver
-project base on java swing
+project based on java swing.
